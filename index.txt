@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<hrml>
+<head><title>ICT PORTFOLIO</title>
+<link rel="stylesheet" href="monique.css" type="text/css">
+</head>
+<body>
+<h1 align="center"> DOMINIQUE MACALANDA'S PRECIOUS MEMORIES</h1>
+<table align="center" border="1" bordercolor="#BD00A4" cellpadding="5" cellspacing="5" 
+width="1500">
+<tr>
+<td align="center" bgcolor="#FFCFF9">MEDIA</td>
+<td align="center" bgcolor="#FFCFF9">DETAILS</td>
+<td align="center" bgcolor="#FFCFF9">MESSAGE</td>
+</tr>
+<td align="center"><img src="jota pic.jpg" width="200" height="300"><br>
+<img src="jota pic 2.jpg" width="200" height="200">
+</td>
+<td align="center">DATE: FEBRUARY 23, 2024<br>
+                   WITH: YLLAIZA,PHOEBE, AND STACEY
+</td>
+<td align="center"> I was one of the people that joined the Folk dance Competition that 
+represented our level. I am thankful that I was able to expereince this, and gained more friends
+through this event and won 1st Runner-Up. It was a series of hardships leading up to the event but we were able to
+surpass everything with the help of our MAPEH teacher.
+<tr>
+<td align="center"><img src="SUGPUIN.png" width="200" height="200">
+</td>
+<td align="center">DATE: JANUARY 29, 2024<br>
+                   WITH: PAUL, PAULO, MANZO, CHARLES, REGENE, HASBIE
+</td>
+<td align="center"> We were tasked to create a film per group and I was the group leader.
+                    With the effort of my team, their dedication and input, we were able to 
+                    finish our film, and submit it on time. We filmed at my mother's school
+                    because my mother is a teacher. 
+</td>
+</tr>
+<tr>
+<td align="center"><video
+                    width="200" height="200" controls="controls">
+                   <source src="VS.mp4" type="video/mp4">
+                   </video>
+</td>
+<td align="center">WHEN:APRIL 1,2024<br>(VARIETY SHOW)<br>
+                   WITH: POP DANCE SEGMENT 
+</td>      
+<td align="center">The variety show is one of my most memorable part of my grade 9 journey
+                   as it tested my section in many aspects, but all of us worked for the
+                   success of our show which I adored in all of my classmates.<br><br>
+</td>
+</tr>
+<td align="center"><img src="cluster-meet-pic.jpg" height="200" width="200">
+                   <img src="mga oa.jpg" height=200" width="200">
+                   <video width="200" height="200" controls="controls">
+                   <source src="with my ates.mp4" type="video/mp4">
+                   </video>
+</td> 
+<td align="center">WHEN: FEBRUARY 1, 2024<br>(CLUSTER MEET)<br>
+                  WITH: LPSCI WOMEN'S VOLLEYBALL TEAM  
+</td>
+<td align="center">The cluster meet is my all time favorite memory in my Grade 9 journey.
+                   I was recruited to play as the libero in the LPsci Women's Volleyball Team.
+                   I remember starting training right after school and going home late at night.
+                   All of the efforts and sacrifices were all worth it as we were able to win
+                   First Runner-Up in that meet. Although, we were sad that we didn't bring home
+                   the title, I am thankful that we were able to play for our school.<br><br>
+                   I was nervious because it was my first time representing the school, let alone
+                   playing volleyball, but in the end, I am thankful for the experience. I 
+                   look forward to next year so that I will be able to play again. 
+                   I am thankful for Sir Santos, if it weren't for him, I wouldn't have been able
+                   to discover my talent and passion for volleyball.
+                   I am thankful for my teammates for being supportive and patient, but especially 
+                   to Ate Kimisha Fuentes, because she was always there for me. She always 
+                   accompanied me when going home late.<br><br>
+                   I am forever thankful for this experience, for I was able to make connections
+                   with people who have the same passion and goal as I have. They are forever my 
+                   "OA ATES". I will continue to strive for them even after they gradute, I will
+                   work to bring home the title, for the school, for my ates, and for Sir Santos.
+</td>   
+<tr>
+<td align="center"><img src="cha cha.png" width="200" height="300">
+</td>
+<td align="center">WHEN: JANUARY 27, 2024<br>
+                   WITH: LENDRIC TONDARES
+</td>
+<td align="center"> We were asked to dance the latin dance "Cha-Cha" with our own choreography.
+                    My dance partner is Lendric. Lendric helped make the choreography and I am
+                    happy that the dance was a success and we got a perfect score!
+</td>
+</tr>
+<td align="center"><img src="falconets-volleyball-girlies.jpg" height="200" width="200"><br>
+                   <img src="falconets-cert.jpg" height="200" width="200">
+</td>
+<td align="center">WHEN: JANUARY 8, 2024<br>
+                  WITH: FALCONETS WOMEN'S VOLLEYBALL TEAM
+</td>
+<td align="center">I was chosen as the team captain of the women's volleyball team and it's
+                   such an honor. Although we weren't able to win champion, I was able to teach
+                   others my learnings in volleyball.
+</td>
+</tr>
+<td align="center"><img src="magazine.jpg" height="300" width="200">
+</td>
+<td align="center">WHEN: APRIL 16, 2024
+</td>
+<td align="center">This magazine was a performance task in MAPEH in which we were
+                   tasked to make a selfie of ourselves as a theater character.
+                   I dressed up as Desdemona in the theater "Otello".<br><br>
+                   She was the main protagonist in the play. It was a tragic love story
+                   between her and her husband who comitted suicide.
+</td>
+</tr>
+</table>
+<audio controls muted>
+<source src="falconets.mp3"
+type="audio/mpeg">
+</body>
+</html>
